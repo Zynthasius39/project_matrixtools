@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  color: aliceblue;
+  background-color: #2f3947;
+  font-family: 'Iosevka';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: 'Iosevka';
+  src:  url('/iosevka-regular.woff') format('woff');
+}
